@@ -1,2 +1,9 @@
 # hackathons
-#WeBUIDLinPublic - hackathons = part of our FELG Culture
+## #WeBUIDLinPublic
+
+Hackathons = part of our FELG Culture
+
+* F = Fun 🎉
+* E = Earning 💰
+* L = Learning 📚
+* G = Giving 🫶
